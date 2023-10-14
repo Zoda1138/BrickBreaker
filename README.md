@@ -1,1 +1,1 @@
-#Brick breaker game made with PyGame
+# Brick breaker game made with PyGame
